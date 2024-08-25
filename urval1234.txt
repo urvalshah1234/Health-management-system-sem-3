@@ -1,0 +1,126 @@
+User-details
+Username = urval1234
+File created on 2024-04-05 at 10:04:33.930867
+*********************************************
+Full-name :- urval shah
+Mobile number :- 7043643600
+Email :- urval@gmail.com
+Gender :- Male
+Age :- 18
+Weight :- 75.0
+Height :- 165.0
+
+Upi-id :- 4@
+You have subscribed to our premium account.
+
+**************BILL**************
+SUBSCRIPTION AMOUNT = 2000
+LUCKY COUPOUN (IF GET ANY) = will
+LUCKY COUPOUN DISCOUNT = 0.0%
+TOTAL BILL = 2000
+**************BILL**************
+
+BMI = 27.548209366391184
+BMI_RANGE = Overweight
+BMR = 1782.786
+PROTEIN REQUIREMENT PER DAY = 135.0
+********************************
+DIET SCHEDULE
+This a diet schedule based on your health records
+Your BMI is 27.548209366391184 and the range of bmi is Overweight 
+Your BMR is 1782.786 which means you have to take that much calorie per day
+Your protein requirement is 135.0 per day
+Breakfast:
+
+Overnight oats made with rolled oats, chia seeds, almond milk, sliced bananas, and a sprinkle of cinnamon.
+A glass of freshly squeezed orange juice or a piece of whole fruit.
+Mid-Morning Snack:
+
+Greek yogurt or coconut yogurt topped with mixed berries (such as strawberries, blueberries, or raspberries) and a handful of granola or nuts.
+Lunch:
+
+Quinoa salad with mixed vegetables (such as bell peppers, cucumbers, cherry tomatoes, and avocado) dressed with a lemon-tahini dressing.
+A serving of baked tofu or chickpeas for added protein.
+Afternoon Snack:
+
+Sliced apple or carrot sticks with hummus or almond butter.
+A small handful of almonds or cashews for additional energy.
+Dinner:
+
+Stir-fried vegetables (such as broccoli, bell peppers, mushrooms, and snap peas) with tofu or tempeh in a light soy-ginger sauce, served over brown rice or quinoa.
+Steamed edamame or a side salad with mixed greens and balsamic vinaigrette dressing.
+Evening Snack (Optional):
+
+A smoothie made with spinach, banana, frozen berries, almond milk, and a scoop of plant-based protein powder.
+Whole grain crackers with avocado slices and cherry tomatoes.
+Hydration:
+
+Drink plenty of water throughout the day to stay hydrated.
+Include herbal teas or infused water for variety.
+Notes:
+
+Focus on whole, nutrient-dense foods such as fruits, vegetables, whole grains, legumes, nuts, and seeds.
+Aim to incorporate a variety of colors, textures, and flavors into your meals for optimal nutrition.
+Monitor portion sizes and listen to your body's hunger and fullness cues.
+Consider consulting with a registered dietitian or nutritionist for personalized dietary advice and guidance on maintaining a healthy body.
+************************************************
+WORKOUT SCHEDULE
+Day 1: Full-Body Strength Training
+
+Warm-up: 5-10 minutes of dynamic stretching or light cardio (e.g., jogging in place, jumping jacks).
+Squats: 3 sets of 10-12 repetitions
+Push-ups or chest presses (using dumbbells or resistance bands): 3 sets of 10-12 repetitions
+Bent-over rows (using dumbbells or resistance bands): 3 sets of 10-12 repetitions
+Lunges (alternating legs): 3 sets of 10-12 repetitions per leg
+Plank: Hold for 30-60 seconds
+Cool-down: 5-10 minutes of static stretching focusing on major muscle groups.
+
+Day 2: Cardiovascular Exercise
+
+Choose a cardiovascular activity such as running, cycling, swimming, or rowing.
+Perform 30-60 minutes of moderate-intensity cardio.
+Focus on maintaining a steady pace and challenging yourself based on fitness level.
+Cool-down: 5-10 minutes of light cardio followed by stretching.
+
+Day 3: Active Recovery or Flexibility
+
+Engage in low-impact activities such as yoga, Pilates, or gentle stretching.
+Focus on improving flexibility, mobility, and relaxation.
+Incorporate foam rolling or self-myofascial release techniques to alleviate muscle tension and soreness.
+
+Day 4: Upper Body Strength Training
+
+Warm-up: 5-10 minutes of dynamic stretching or light cardio.
+Bench press or chest flyes (using dumbbells or resistance bands): 3 sets of 10-12 repetitions
+Pull-ups or lat pulldowns (using resistance bands or machine): 3 sets of 8-10 repetitions
+Shoulder press (using dumbbells or resistance bands): 3 sets of 10-12 repetitions
+Bicep curls (using dumbbells or resistance bands): 3 sets of 10-12 repetitions
+Tricep dips or tricep extensions (using dumbbells or resistance bands): 3 sets of 10-12 repetitions
+Cool-down: 5-10 minutes of static stretching focusing on upper body muscles.
+
+Day 5: Cardiovascular Exercise
+
+Choose a different cardiovascular activity than Day 2 or vary the intensity.
+Perform 30-60 minutes of cardio focusing on interval training or high-intensity intervals (HIIT) for added intensity.
+Cool-down: 5-10 minutes of light cardio followed by stretching.
+
+Day 6: Lower Body Strength Training
+
+Warm-up: 5-10 minutes of dynamic stretching or light cardio.
+Deadlifts (using dumbbells or barbell): 3 sets of 8-10 repetitions
+Leg press or goblet squats (using dumbbells or resistance bands): 3 sets of 10-12 repetitions
+Romanian deadlifts (using dumbbells or barbell): 3 sets of 10-12 repetitions
+Calf raises: 3 sets of 12-15 repetitions
+Leg curls (using resistance bands or machine): 3 sets of 10-12 repetitions
+Cool-down: 5-10 minutes of static stretching focusing on lower body muscles.
+
+Day 7: Rest or Active Recovery
+
+Take a day off from structured exercise to allow the body to rest and recover.
+Engage in light activities such as walking, leisurely biking, or gentle stretching if desired.
+Notes:
+
+Progressively increase the intensity, duration, or weight lifted as you become stronger and more comfortable with the exercises.
+Listen to your body and modify exercises as needed to accommodate any injuries, limitations, or discomfort.
+Stay hydrated and fuel your body with nutritious foods to support energy levels and recovery.
+Consult with a fitness professional or healthcare provider before starting any new exercise program, especially if you have pre-existing medical conditions or concerns.

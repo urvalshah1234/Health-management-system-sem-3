@@ -1,0 +1,12 @@
+
+Premium features  of this system
+
+1.To know your BMI and in which range you're in, and you will get the guidance according to your bmi and it's range
+2.To know your BMR and what are the calories required per day
+3.Protein requirement per day
+4.Diet schedule according to your body weight, bmi, and your preferences
+5.workout plan
+6.we will track your calorie intake per day by your diet schedule that you will enter and we will provide graph according to that
+7.we will track your calorie burned per day by your workout that you will enter and we will provide graph according to that
+
+Amount for subscription 2000rs per month.
